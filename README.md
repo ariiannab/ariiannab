@@ -2,7 +2,7 @@
 
 Description: A general description of how my program works would be - A user-friendly encryption/decryption program that uses the Vigenere Cipher table.
 A list of programming approaches I used, consist of input/output, looping, handling errors, using strings and functions.
-Authors: Arianna Balderrama
+### Authors: Arianna Balderrama
 Date published: 12/10/2023
 Instructions to use the code: 
 First, the program will welcome you and ask for a message to be inputted, you can pick anything you would like as long as it is a letter or word.
