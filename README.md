@@ -1,5 +1,6 @@
-### Hi there 👋
+### Here is information about my program! 👋
 
+Description: 
 <!--
 **ariiannab/ariiannab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
