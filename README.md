@@ -1,4 +1,4 @@
-### Here is information about my program! (expand to read full response) 👋
+### Here is information about my program! 👋
 
 Description: A general description of how my program works would be - A user-friendly encryption/decryption program that uses the Vigenere Cipher table.
 A list of programming approaches I used, consist of input/output, looping, handling errors, using strings and functions.
